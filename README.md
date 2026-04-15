@@ -17,7 +17,7 @@
 
 ## `$ whoami`
 
-> **SDE-1 @ JIO** · Building the firmware backbone for **AirFiber IDU** — carrier-grade Wi-Fi at scale.
+> **SDE-1 @ JIO** · Building the firmware backbone for **AirFiber IDU / Openwifi Devices ** — carrier-grade Wi-Fi at scale.
 
 I live at the intersection of **Linux kernel space**, **embedded systems**, and **open-source infrastructure**. My day-to-day involves writing C daemons, wrangling UCI configs, debugging hostapd race conditions, and pushing PRs upstream to OpenWrt and Zephyr RTOS.
 
