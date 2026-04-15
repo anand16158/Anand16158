@@ -18,9 +18,4 @@ Here are some ideas to get you started:
    <img src="https://credly.com" width="150" alt="Credly Badge">
 </a>
 
-<!-- START_SECTION:badges -->
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d69449a3-4f08-4766-8674-12e4ea7c933c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<!-- END_SECTION:badges -->
